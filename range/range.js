@@ -1,6 +1,15 @@
 function range(start, end) {
-  // YOUR CODE HERE
-  return
+  if ( start >= end) {
+    return [];
+  }
+  
+  let arr = [];
+
+  for ( let i=start; i<end; i=i+1) {
+    arr.push(i)
+  }
+
+  return arr
 }
 
 range(0, 4); // => [0, 1, 2, 3]
