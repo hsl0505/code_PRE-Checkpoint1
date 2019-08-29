@@ -9,12 +9,12 @@
 
 ## Grading Outline
 
-- [ ] billTotal
-- [ ] getFullName
-- [ ] longestName
-- [ ] range
-- [ ] hammingDistance
-- [ ] offLineMinimum (난이도가 조금 있습니다!)
+- [complete] billTotal
+- [complete] getFullName
+- [complete] longestName
+- [complete] range
+- [complete] hammingDistance
+- [complete] offLineMinimum (난이도가 조금 있습니다!)
 
 ## Self-Grading Process
 
